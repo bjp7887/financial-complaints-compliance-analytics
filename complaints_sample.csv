@@ -1,0 +1,11 @@
+complaint_id,date_received,date_sent_to_company,product,sub_product,issue,sub_issue,company,state,submitted_via,company_response,timely_response
+1,2024-01-05,2024-01-07,Credit card,Credit card,Incorrect information on report,,ABC Bank,CA,Web,Closed with explanation,Yes
+2,2024-01-10,2024-01-12,Mortgage,Conventional home mortgage,Loan servicing issues,,XYZ Finance,TX,Web,Closed with monetary relief,Yes
+3,2024-02-01,2024-02-04,Bank account,Checking account,Account closure,,ABC Bank,NY,Phone,Closed with explanation,No
+4,2024-02-15,2024-02-17,Debt collection,Credit card debt,Attempts to collect debt not owed,,Collect Corp,FL,Web,Closed with non-monetary relief,Yes
+5,2024-03-02,2024-03-06,Personal loan,Installment loan,Problem with payment handling,,LoanStar,IL,Email,Closed with explanation,No
+6,2024-03-10,2024-03-12,Credit card,Credit card,Fees or interest,,ABC Bank,CA,Web,Closed with explanation,Yes
+7,2024-04-01,2024-04-03,Mortgage,FHA mortgage,Struggling to pay mortgage,,XYZ Finance,TX,Phone,Closed with explanation,Yes
+8,2024-04-12,2024-04-16,Bank account,Savings account,Deposits and withdrawals,,Safe Bank,NJ,Web,Closed with explanation,Yes
+9,2024-05-01,2024-05-04,Debt collection,Medical debt,Written notification about debt,,Collect Corp,GA,Web,Closed with explanation,No
+10,2024-05-20,2024-05-23,Personal loan,Installment loan,Charged fees or interest,,LoanStar,IL,Web,Closed with explanation,Yes
